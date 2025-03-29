@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AmeerNahas04
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Networking!
-- 💞️ I’m looking to collaborate on Labs and Projects
+- 👋 Hi, I’m @AmeerNahas04 alias is SwiftJaguar (or Swift :D)
+- 👀 I’m interested in Cyber Security/Cloud Security
+- 🌱 I’m currently learning Cloud...Cloud and more Cloud!
+- 💞️ I’m always looking to collaborate on Labs and Projects
 - 📫 How to reach me ameernahas@gmail.com
 
 <!---
